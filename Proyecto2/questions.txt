@@ -1,0 +1,6 @@
+¿Su personaje es bueno?
+¿Su personaje tiene sombrero?
+¿Su personaje tiene caparazón?
+¿Su personaje tiene pelo rojo?
+¿Su personaje tiene sombrero rojo?
+¿Su personaje viste de rosado?

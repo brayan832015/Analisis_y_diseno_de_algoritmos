@@ -1,0 +1,13 @@
+¿Su personaje es bueno?
+¿Su personaje tiene sombrero?
+¿Su personaje tiene caparazón?
+¿Su personaje tiene sombrero rojo?
+¿Su personaje viste de rosado?
+¿Su personaje tiene pelo rojo?
+No se encontró el personaje
+Su personaje es Mario
+Su personaje es Luigi
+Su personaje es Peach
+No se encontró el personaje
+Su personaje es Bowser
+No se encontró el personaje
