@@ -1,0 +1,8 @@
+Nombre de Jugador:
+Brayan
+Coordenadas submarino
+A1,A2,A3
+Coordenadas crucero
+C1,C2
+Coordenadas lancha
+E3

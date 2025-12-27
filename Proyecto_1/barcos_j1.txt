@@ -1,0 +1,9 @@
+Nombre de Jugador:
+Jhon Doe
+Coordenadas submarino
+A1,B1,C1
+Coordenadas crucero
+C3,C2
+Coordenadas lancha
+C4
+
